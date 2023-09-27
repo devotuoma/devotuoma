@@ -1,4 +1,4 @@
-<img align="center" alt="Data Science" width="600" height="200" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ">
+<img align="center" alt="Data Science" width="1000" height="200" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ">
 <h1 align="center">Hi 👋, I'm Erick Otuoma</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
